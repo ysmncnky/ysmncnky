@@ -11,7 +11,7 @@
 ### 🚀 Neler Üzerinde Çalışıyorum?
 Şu anda veritabanı tasarımı ve kişisel verimlilik projeleri geliştiriyorum. Kodlamayı öğrenmenin en iyi yolunun bir şeyler inşa etmek olduğuna inanıyorum!
 
-* 📫 **İletişim:** y.cankaya277@gmail.com
+* 📫 **İletişim:** ycankaya277@gmail.com
 * 💬 **Projelerim:** Bu GitHub profilim üzerinden güncel projelerimi takip edebilirsiniz.
 * ⚡ Hobilerim: Yüzme koçluğu, teknoloji takibi ve kedimle vakit geçirmek.
 
