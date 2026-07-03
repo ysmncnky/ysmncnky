@@ -1,16 +1,20 @@
-## Hi there 👋
+# Merhaba, ben Yasemin Çankaya! 👋
 
-<!--
-**ysmncnky/ysmncnky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yönetim Bilişim Sistemleri (YBS) 3. Sınıf öğrencisiyim.** Veri analizi, veritabanı yönetimi ve yazılım geliştirme süreçlerine tutkuyla bağlıyım. Analitik düşünme yeteneğimi teknik becerilerimle birleştirerek işletmelere dijital çözümler sunmayı hedefliyorum.
 
-Here are some ideas to get you started:
+### 🛠 Teknik Yeteneklerim
+* **Veri Analizi:** Power BI, Excel
+* **Veritabanı:** SQL Server, SQLite
+* **Programlama:** Python, C#
+* **İş Geliştirme:** Dijital Pazarlama, E-Ticaret, İş Süreçleri Yönetimi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Neler Üzerinde Çalışıyorum?
+Şu anda veritabanı tasarımı ve kişisel verimlilik projeleri geliştiriyorum. Kodlamayı öğrenmenin en iyi yolunun bir şeyler inşa etmek olduğuna inanıyorum!
+
+* 📫 **İletişim:** y.cankaya277@gmail.com
+* 💬 **Projelerim:** Bu GitHub profilim üzerinden güncel projelerimi takip edebilirsiniz.
+* ⚡ Hobilerim: Yüzme koçluğu, teknoloji takibi ve kedimle vakit geçirmek.
+
+---
+*Gelişim sürecimdeki projelerimi bu profilde paylaşıyorum. İncelediğin için teşekkürler!*
+
